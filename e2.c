@@ -1,3 +1,8 @@
+// Universidad del Valle de Guatemala
+// Sistemas Operativos
+// Lab4 - Ejercicio 2
+// Andres Quezada 21085
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
