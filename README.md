@@ -1,2 +1,2 @@
 # OS-Lab4
-Laboratorio #$ - Sistemas Operativos
+Laboratorio #4 - Sistemas Operativos
